@@ -2,4 +2,5 @@ streamlit
 langchain
 openai
 faiss-cpu
+langchain_ollama
 chromadb
