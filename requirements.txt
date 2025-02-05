@@ -4,3 +4,7 @@ openai
 faiss-cpu
 langchain_ollama
 chromadb
+python==3.10
+httpx
+urllib3
+certifi
